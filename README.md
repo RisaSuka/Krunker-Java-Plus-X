@@ -8,7 +8,7 @@ __________________________________
 - Make Adblock
 __________________________________
 >**KRUNKER Java Plus 𝓧** available now
-- [TamperMonkey]()
+- [TamperMonkey](https://github.com/Krunker-Java-plus-X-777/Krunker-Java-Plus-X-777/tree/master/Krunker%20Hack%20(Script))
 - [AutoHotkey](https://github.com/Krunker-Java-plus-X-777/Krunker-Java-Plus-X-777/tree/master/Krunker%20Hack%20(Autohotkey%20:%20Cilent))
 - [Client](https://github.com/Krunker-Java-plus-X-777/Krunker-Java-Plus-X-777/tree/master/Krunker%20Hack%20(Cilent))
 __________________________________
